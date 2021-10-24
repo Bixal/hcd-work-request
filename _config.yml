@@ -1,8 +1,8 @@
 # Set a plain language title for the site.
-title: Bixal Presentation Template
+title: HCD Work Request
 
 # Write a short description for the site. This is used for "meta description."
-description: A template for creating web-based presentation slides using USWDS and Bixal branding
+description: Internal form for requesting ad-hoc design work from Bixal HCD team
 
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
@@ -11,7 +11,7 @@ lang: en
 github: [metadata]
 
 # Enable for live hosting on GitHub Pages
-baseurl: /presentation-template
+baseurl: /hcd-work-request
 
 # Remove generation of additional style.css
 theme: null
